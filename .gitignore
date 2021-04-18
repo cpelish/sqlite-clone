@@ -54,3 +54,6 @@ dkms.conf
 # vendor files for rspec
 vendor/
 bin/
+
+# database files
+*.db
