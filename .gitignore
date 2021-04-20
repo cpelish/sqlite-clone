@@ -57,3 +57,4 @@ bin/
 
 # database files
 *.db
+db
